@@ -1,7 +1,7 @@
 # Aiffel 대전
 
 
-|    EXPLORATION |               Project Name                     |      Experience        |
+|    EXPLORATION |               Project Name                     |      Application        |
 |:------------:|:---------------------------------------------:|:----------------------:|
 |01|[가위바위보 분류기](https://github.com/hongse0331/Aiffel/blob/master/exploration/(E1)%20Image_Classification/(E1)%201st_project-rock_scissor_paper_classifier.ipynb)          |Image Classification, CNN|
 |02|[Iris 품종 분류하기](https://github.com/hongse0331/Aiffel/tree/master/exploration/(E2)%20Classification)         |Classification       |
