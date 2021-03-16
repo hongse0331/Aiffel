@@ -3,7 +3,7 @@
 
 |    EXPLORATION |               Project Name                     |      Experience        |
 |:------------:|:---------------------------------------------:|:----------------------:|
-|01|[가위바위보 분류기]          |Image Classification, CNN|
+|01|[가위바위보 분류기](https://github.com/hongse0331/Aiffel/blob/master/(E1)%201st_project-rock_scissor_paper_classifier.ipynb)          |Image Classification, CNN|
 |02|[Iris 품종 분류하기]          |scikit-learn, ML        |
 |03|[카메라 스티커 앱 만들기]    |Face Detection          |
 |04|[영화리뷰 텍스트 감성분석하기]|Sequence Data, RNN      |
