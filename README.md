@@ -4,7 +4,7 @@
 |    EXPLORATION |               Project Name                     |      Application        |
 |:------------:|:---------------------------------------------:|:----------------------:|
 |01|[가위바위보 분류기](https://github.com/hongse0331/Aiffel/blob/master/exploration/(E1)%20Image_Classification/(E1)%201st_project-rock_scissor_paper_classifier.ipynb)          |Image Classification, CNN|
-|02|[Iris 품종 분류하기](https://github.com/hongse0331/Aiffel/tree/master/exploration/(E2)%20Classification)         |Classification       |
+|02|[Iris 품종 분류하기](https://github.com/hongse0331/Aiffel/tree/master/exploration/(E2)%20Classification)         |Classification, sklearn       |
 |03|[카메라 스티커 앱 만들기](https://github.com/hongse0331/Aiffel/blob/master/exploration/(E3)%20Face_detection/(E3)3rd-camera_sticker_app_project.ipynb)   |Face Detection          |
 |04|[영화리뷰 텍스트 감성분석하기](https://github.com/hongse0331/Aiffel/blob/master/exploration/(E4)%20Sentiment_classification/(E4)4th-Naver_Movie_Review_Sentiment_Analysis.ipynb)  | RNN      |
 |05|[음성 단어 데이터 구분해보기](https://github.com/hongse0331/Aiffel/blob/master/exploration/(E5)%20Spectrogram_classification/(E5)spectrogram_classification.ipynb) |Wave Classification, CNN|
