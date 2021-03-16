@@ -3,7 +3,7 @@
 
 |              |               Project Name                     |      Experience        |
 |:------------:|:---------------------------------------------:|:----------------------:|
-|EXPLORATION_01|[가위바위보 분류기](./(E1) 1st_project-rock_scissor_paper_classifier.ipynb)            |Image Classification, CNN|
+|EXPLORATION_01|[가위바위보 분류기](./(E1) 1st_project-rock_scissor_paper_classifier.ipynb            |Image Classification, CNN|
 |EXPLORATION_02|[Iris 품종 분류하기](./exploration_02)           |scikit-learn, ML        |
 |EXPLORATION_03|[카메라 스티커 앱 만들기](./exploration_03)       |Face Detection          |
 |EXPLORATION_04|[영화리뷰 텍스트 감성분석하기](./exploration_04)|Sequence Data, RNN      |
